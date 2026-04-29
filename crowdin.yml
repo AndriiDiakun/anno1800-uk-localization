@@ -1,0 +1,3 @@
+files:
+  - source: /original/*.xml
+    translation: 'translation: /translated/%two_letters_code%/*.xml'
